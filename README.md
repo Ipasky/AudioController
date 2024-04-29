@@ -34,10 +34,9 @@ The final wiring looks like this:
 - Printing time: 13h 44min
 
 ## Components
-- [Arduino Nano](https://www.amazon.es/dp/B078S8BJ8T?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Arduino Nano](https://www.amazon.es/dp/B078S8BJ8T?psc=1&ref=ppx_yo2ov_dt_b_product_details) 
 - [Potenciometers Kit](https://www.amazon.es/gp/product/B087Q9JVYD/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1)
 - [Knobs](https://www.amazon.es/gp/product/B07DNBDFW8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Push Button](https://www.amazon.es/dp/B09Q8F5JR3?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Wiring cables
 - Terminal block conector
-*All from Amazon*
