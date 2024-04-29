@@ -23,9 +23,12 @@ The push button that I use have 4 pins, two of them to the push button itself, a
 | <img src="https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/pushbutton.jpg" width="500" > | <img src="https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/pushbuttonpins.jpg" width="500" > |
 
 The final wiring looks like this:
+
 ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/interiorwiring.jpg)
 
+
 ## Specs
+
 
 ## Components
 - Arduino Nano: https://www.amazon.es/dp/B078S8BJ8T?psc=1&ref=ppx_yo2ov_dt_b_product_details
