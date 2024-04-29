@@ -6,7 +6,7 @@ This is my own 3D desing that implements Deej software https://github.com/omriha
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P01.jpg))  |  ![]([https://...Ocean.png](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P02.jpg))
+![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P01.jpg)  |  ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P02.jpg)
 ## Description
 
 ## Specs
