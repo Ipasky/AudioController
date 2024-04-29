@@ -28,10 +28,10 @@ The final wiring looks like this:
 
 
 ## Specs
-Dimensions: 220 x 60 x 44 mm
-Weight: 170g
-Material: white PLA & black PLA
-Printing time: 13h 44min
+- Dimensions: 220 x 60 x 44 mm
+- Weight: 170g
+- Material: black PLA & wite PLA
+- Printing time: 13h 44min
 
 ## Components
 - Arduino Nano: https://www.amazon.es/dp/B078S8BJ8T?psc=1&ref=ppx_yo2ov_dt_b_product_details
