@@ -1,5 +1,5 @@
-# 3D Physical audio controller | Deej
-This is my own 3D desing that implements Deej software https://github.com/omriharel/deej
+# Physical Audio Controller | Deej
+This is my own 3D printing desing that implements Deej software https://github.com/omriharel/deej able to controll audio and mic devices on your computer in a physical way.
 
 ![Board Image](https://github.com/Ipasky/AudioControllerDeej/blob/main/images/P03.jpg)
 
