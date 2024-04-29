@@ -2,9 +2,8 @@
 This is my own 3D desing that implements Deej software https://github.com/omriharel/deej
 
 ![Board Image](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P03.jpg)
-All images https://github.com/Ipasky/AudioControllerDeej/blob/main/docs
 
-| | |
+| <!-- --> | <!-- --> |
 |:------:|:------:|
 | ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P01.jpg) | ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P02.jpg) |
 
