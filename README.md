@@ -20,10 +20,10 @@ I let here a schematics about the wiring, be aware that in this pic the Arduino 
 The push button that I use have 4 pins, two of them to the push button itself, and two more for the led. In my case i need to add a resistance trough negative led pin to analog button pin. I really dont know if this wiring is the optimum but it works for me.
 | | |
 |:------:|:------:|
-| ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/pushbutton.jpg) | ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/pushbuttonpins.jpg) |
+| ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/pushbutton.jpg | width=50 ) | ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/pushbuttonpins.jpg | width=50) |
 
 The final wiring looks like this:
-https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/interiorwiring.jpg
+![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/interiorwiring.jpg)
 
 ## Specs
 
