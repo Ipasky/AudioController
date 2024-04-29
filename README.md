@@ -28,7 +28,7 @@ The final wiring looks like this:
 
 
 ## Specs
-
+- 220 x 60 x 44 mm
 
 ## Components
 - Arduino Nano: https://www.amazon.es/dp/B078S8BJ8T?psc=1&ref=ppx_yo2ov_dt_b_product_details
