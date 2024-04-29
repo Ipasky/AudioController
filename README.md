@@ -1,4 +1,4 @@
-# Deej physical audio aontroller
+# 3D Physical audio controller | Deej
 This is my own 3D desing that implements Deej software https://github.com/omriharel/deej
 
 ![Board Image](https://github.com/Ipasky/AudioControllerDeej/blob/main/images/P03.jpg)
