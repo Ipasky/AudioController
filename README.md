@@ -3,11 +3,12 @@ This is my own 3D desing that implements Deej software https://github.com/omriha
 
 ![Board Image](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P03.jpg)
 
-| <!-- --> | <!-- --> |
+| | |
 |:------:|:------:|
 | ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P01.jpg) | ![](https://github.com/Ipasky/AudioControllerDeej/blob/main/docs/P02.jpg) |
 
 ## Description
+
 
 ## Specs
 
